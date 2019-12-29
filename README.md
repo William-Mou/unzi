@@ -1,5 +1,7 @@
 
 # Unzi
+It's a unzip tool. 
+Help you unzip all type of files! 
 
 ## Install with one command
 ```
