@@ -1,4 +1,4 @@
-wget "https://github.com/William-Mou/unzi/blob/master/install.sh" -O ~/.unzi.sh 
+wget "https://raw.githubusercontent.com/William-Mou/unzi/master/unzi.sh" -O ~/.unzi.sh 
 echo "alias unzi="~/.unzi.sh"" >> ~/.bashrc && echo "load bashrc"
 echo "alias unzi="~/.unzi.sh"" >> ~/.zshrc && echo "load zshrc"
-
+`$SHELL`
