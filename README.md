@@ -1,6 +1,6 @@
 
 # Unzi
-It's a unzip tool. 
+It's a tool to unzip. 
 Help you unzip all type of files! 
 
 ## Install with one command
@@ -14,7 +14,7 @@ unzip file
 ```
 
 ## Enjoy!
-Please add this `alais` to your config file if you don't use `zsh` or `bash`.
+Please add this `alais` command to your config file if you are not using `zsh` or `bash`.
 ```
 alais unzi="~/.unzi.sh"
 ```
